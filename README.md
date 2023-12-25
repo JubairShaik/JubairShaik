@@ -32,14 +32,14 @@ Good luck on your journey to becoming a remarkable Fullstack Developer! 🚀
 
 
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+ 
 
 <h1 align="center">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jubair+Ahmed!;" />
 
 </h1>
 
-<h3 align="center">A passionate Fullstack Developer from India 🇨🇦</h3>
+<h3 align="center">A passionate Fullstack Developer from India</h3>
 
 <br/>
 
@@ -72,8 +72,8 @@ Good luck on your journey to becoming a remarkable Fullstack Developer! 🚀
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,c++,java,nextjs" /><br>
 </div>
 
 <br/>
@@ -82,7 +82,7 @@ Good luck on your journey to becoming a remarkable Fullstack Developer! 🚀
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+ ![snake animation](https://github.com/JubairShaik/JubairShaik/blob/output/github-contribution-grid-snake2.svg)
   
   <br/><br/><br/>
 </div>
