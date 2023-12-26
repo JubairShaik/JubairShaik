@@ -1,4 +1,4 @@
-![1686429013033](https://github.com/JubairShaik/JubairShaik/assets/104702942/8de599fd-e3ee-4052-8b94-a14bf8d947ca)
+ 
 <br/>
 <h1 align="center">
         <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jubair+Ahmed!;" />
