@@ -42,6 +42,11 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs" /><br>
 </div>
 
+
+
+
+htt![Jubair Ahmed](https://tech-orbit.wontory.dev/api?title=Jubair%20Ahmed&tech=React,Next.js,Android,Kotlin,Tailwind%20CSS&size=700&duration=40)
+
  
  
 <!--  ![snake animation](https://github.com/JubairShaik/JubairShaik/blob/output/github-contribution-grid-snake2.svg) -->
