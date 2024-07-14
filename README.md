@@ -4,13 +4,13 @@
 <!-- Thumbnail -->
 <a href="https://jubairshaik.vercel.app/">
   <picture>
-<!--     <source media="(prefers-color-scheme: dark)" srcset="./header-dark.svg" /> -->
+    <source media="(prefers-color-scheme: dark)" srcset="./header-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./header.svg" />
-    <img
+<!--     <img
       alt="jubairshaik | Freelancer · Cross-Platform Developer"
       src="./header.svg"
       width="100%"
-    />
+    /> -->
   </picture>
 </a>
 <!-- End of Thumbnail -->
