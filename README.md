@@ -14,8 +14,8 @@
   </picture>
 </a>
 <!-- End of Thumbnail -->
-![github-header-image (3)](https://github.com/user-attachments/assets/50fb9402-cddd-47ae-94a1-ae8eec044cb3)
-
+ 
+![github-header-image (3)](https://github.com/user-attachments/assets/e1e41b87-42e3-4358-a98b-0b667d85b1e9)
 
 
 <!-- Links -->
@@ -27,7 +27,7 @@
         src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=jubairshaik.dev&style=flat&logo=amp&logoColor=ffffff&labelColor=334155"
       />
     </a>
-    <a href="https://linkedin.com/in/lironabutbul/">
+    <a href="[https://www.linkedin.com/in/imjubairahmed/]">
       <img
         alt="My LinkedIn Profile"
         src="https://img.shields.io/badge/LinkedIn-lironabutbul-7733ff?style=flat&logo=linkedin&logoColor=ffffff&labelColor=334155"
@@ -36,7 +36,7 @@
     <!--     <a href="https://twitter.com/lironabutbul">
       <img alt="My Twitter Profile" src="https://img.shields.io/badge/Twitter-lironabutbul-7733ff?style=flat&logo=twitter&logoColor=ffffff&labelColor=334155">
       </a> -->
-    <a href="https://leetcode.com/jubairshaik/">
+    <a href="https://leetcode.com/jubairahmed/">
       <img
         alt="My LeetCode Profile"
         src="https://img.shields.io/static/v1?color=%237733ff&label=LeetCode&message=@jubairshaik&style=flat&logo=leetcode&logoColor=ffffff&labelColor=334155"
