@@ -15,7 +15,6 @@
 </a>
 <!-- End of Thumbnail -->
  
-![github-header-image (3)](https://github.com/user-attachments/assets/e1e41b87-42e3-4358-a98b-0b667d85b1e9)
 
 
 <!-- Links -->
@@ -30,7 +29,7 @@
     <a href="[https://www.linkedin.com/in/imjubairahmed/]">
       <img
         alt="My LinkedIn Profile"
-        src="https://img.shields.io/badge/LinkedIn-lironabutbul-7733ff?style=flat&logo=linkedin&logoColor=ffffff&labelColor=334155"
+        src="https://img.shields.io/badge/LinkedIn-imjubairahmed-7733ff?style=flat&logo=linkedin&logoColor=ffffff&labelColor=334155"
       />
     </a>
     <!--     <a href="https://twitter.com/lironabutbul">
