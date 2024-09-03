@@ -96,7 +96,7 @@
     <img src="https://skillicons.dev/icons?i=react,nextjs,express,nodejs,bootstrap,tailwind,mui,graphql,vite" />
     <br/>
     <!-- Third Row: Tools -->
-    <img src="https://skillicons.dev/icons?i=vscode,webstorm,github,git,figma,firebase,mongodb,mysql,supabase,appwrite,android" />
+    <img src="https://skillicons.dev/icons?i=vscode,webstorm,github,git,firebase,mongodb,mysql,supabase,appwrite,android" />
     <br/>
 </div>
 
