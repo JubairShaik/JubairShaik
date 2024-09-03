@@ -20,13 +20,13 @@
 <!-- Links -->
 <header>
   <div align="center">
-    <a href="https://jubairshaik.vercel.app">
+    <a href="https://jubairahmed.vercel.app">
       <img
         alt="My Personal Website"
         src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=jubairshaik.dev&style=flat&logo=amp&logoColor=ffffff&labelColor=334155"
       />
     </a>
-    <a href="[https://www.linkedin.com/in/imjubairahmed/]">
+    <a href="https://www.linkedin.com/in/imjubairahmed/">
       <img
         alt="My LinkedIn Profile"
         src="https://img.shields.io/badge/LinkedIn-imjubairahmed-7733ff?style=flat&logo=linkedin&logoColor=ffffff&labelColor=334155"
