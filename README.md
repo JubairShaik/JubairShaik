@@ -84,14 +84,22 @@
 
  <hr/>
  
+ 
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs" />
-    <img src="https://skillicons.dev/icons?i=android,kotlin,java" />
-  <br>
+    <!-- First Row: Languages -->
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,c,cpp,java,kotlin" />
+    <br/>
+    <!-- Second Row: Frameworks -->
+    <img src="https://skillicons.dev/icons?i=react,nextjs,express,nodejs,bootstrap,tailwind,mui,graphql,vite" />
+    <br/>
+    <!-- Third Row: Tools -->
+    <img src="https://skillicons.dev/icons?i=vscode,webstorm,github,git,figma,firebase,mongodb,mysql,supabase,appwrite,android" />
+    <br/>
 </div>
+
 
 
 
