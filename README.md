@@ -88,15 +88,13 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs" />
+    <img src="https://skillicons.dev/icons?i=android,kotlin,java" />
+  <br>
 </div>
 
 
 
-
-htt![Jubair Ahmed](https://tech-orbit.wontory.dev/api?title=Jubair%20Ahmed&tech=React,Next.js,Android,Kotlin,Tailwind%20CSS&size=700&duration=40)
-
- 
  
  
 📈 Making an Impact, One Line of Code at a Time
